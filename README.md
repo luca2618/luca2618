@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=luca2618)](https://github.com/luca2618/github-readme-stats)
+
 <!--
 **luca2618/luca2618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
